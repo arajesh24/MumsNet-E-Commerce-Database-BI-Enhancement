@@ -6,10 +6,10 @@ This was a group project of 6 members where I specifically focused on Deliverabl
 ## Project Structure
 ```
 Database
-  └── Group[X]-D1.bak
+  └── Group15-D1.bak
 BI_Solution
-  ├── Group[X]-D2/
-  │   └── Group[X]-D2.sln
+  ├── Group15-D2/
+  │   └── Group15-D2.sln
 ```
 
 ## My Contribution - Business Intelligence Platform (D2)
